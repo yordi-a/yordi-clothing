@@ -1,2 +1,1 @@
-# yordi-clothing
- 
+Yordi - Clothing (www.fivemturk.com)
